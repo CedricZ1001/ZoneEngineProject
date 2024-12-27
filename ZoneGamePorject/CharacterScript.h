@@ -1,7 +1,6 @@
 #pragma once
 namespace first_game_project {
 
-REGISTER_SCRIPT(character_script)
 class character_script :public zone::script::entity_script
 {
 public:
